@@ -14,7 +14,7 @@ All inside one futuristic agri-solution.
 ---
 
 ## 📌 Project Poster
-![AgroX Poster](/Rename ChatGPT Image Nov 23, 2025, 12_23_06 PM.png to poster.png)
+![AgroX Poster](poster.png)
 
 ---
 
